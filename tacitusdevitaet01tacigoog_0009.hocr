@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tacitusdevitaet01tacigoog_0009.png"; bbox 0 0 2840 4132; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 494 1816 863 1959">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 494 1816 863 1959">
+     <span class='ocr_line' id='line_1_1' title="bbox 494 1816 863 1868; baseline -0.011 -8"><span class='ocrx_word' id='word_1_1' title='bbox 494 1818 676 1868; x_wconf 72' lang='lat' dir='ltr'>GOPYRIGH&#39;I&#39;¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 700 1817 771 1866; x_wconf 83' lang='grc'>1899,</span> <span class='ocrx_word' id='word_1_3' title='bbox 790 1816 863 1866; x_wconf 83' lang='grc'>1900,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 498 1915 858 1959; baseline -0.006 0"><span class='ocrx_word' id='word_1_4' title='bbox 498 1919 539 1959; x_wconf 83' lang='lat' dir='ltr'>BY</span> <span class='ocrx_word' id='word_1_5' title='bbox 557 1915 677 1959; x_wconf 75' lang='lat' dir='ltr'>ALFRED</span> <span class='ocrx_word' id='word_1_6' title='bbox 697 1915 858 1957; x_wconf 73' lang='lat' dir='ltr'>GUDEMAN.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 590 3569 779 3620">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 590 3569 779 3620">
+     <span class='ocr_line' id='line_1_3' title="bbox 590 3569 779 3620; baseline -0.021 -4"><span class='ocrx_word' id='word_1_7' title='bbox 590 3569 697 3616; x_wconf 61' lang='lat' dir='ltr'>Nurum</span> <span class='ocrx_word' id='word_1_8' title='bbox 710 3569 779 3620; x_wconf 55' lang='lat' dir='ltr'>nrm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 466 3640 899 3740">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 466 3640 899 3740">
+     <span class='ocr_line' id='line_1_4' title="bbox 466 3640 899 3688; baseline -0.012 -7"><span class='ocrx_word' id='word_1_9' title='bbox 466 3645 485 3681; x_wconf 72' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_10' title='bbox 497 3645 515 3680; x_wconf 80' lang='lat'>8.</span> <span class='ocrx_word' id='word_1_11' title='bbox 527 3645 612 3688; x_wconf 66' lang='lat' dir='ltr'>cunning</span> <span class='ocrx_word' id='word_1_12' title='bbox 623 3648 636 3679; x_wconf 65' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_13' title='bbox 648 3645 681 3680; x_wconf 82' lang='lat' dir='ltr'>co.</span> <span class='ocrx_word' id='word_1_14' title='bbox 689 3643 800 3678; x_wconf 75' lang='lat' dir='ltr'>—Berviek</span> <span class='ocrx_word' id='word_1_15' title='bbox 812 3645 826 3676; x_wconf 65' lang='lat' dir='ltr'>t</span> <span class='ocrx_word' id='word_1_16' title='bbox 837 3640 899 3678; x_wconf 74' lang='lat' dir='ltr'>smlth</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 561 3703 809 3740; baseline -0.012 0"><span class='ocrx_word' id='word_1_17' title='bbox 561 3705 657 3740; x_wconf 79' lang='lat' dir='ltr'><strong>Norwood</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 669 3705 726 3740; x_wconf 73' lang='lat' dir='ltr'>Mun.</span> <span class='ocrx_word' id='word_1_19' title='bbox 739 3703 809 3740; x_wconf 63' lang='grc' dir='ltr'>ΗΜ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1424 4132">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1424 4132">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1424 4132; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 1424 4132; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
